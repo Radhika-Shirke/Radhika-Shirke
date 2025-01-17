@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Akash Yadav 👋</h1>
+<h1 align="center">Hello, I'm Radhika Shirke 👋</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a Full Stack Developer and Cybersecurity Enthusiast with a passion for building secure and innovative solutions. My technical toolkit includes JavaScript, TypeScript, React, Angular, AWS, Docker, Kubernetes, Java, Python, Solidity, and more.</h3>
 
 <h3 align="center">As a Certified Application Security Practitioner and a seasoned technical speaker, I've shared my insights across 20+ events, empowering tech professionals. I'm eager to tackle new challenges and collaborate on projects that push technological boundaries. Let's innovate together! 🚀</h3>
